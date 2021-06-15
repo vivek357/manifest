@@ -1,6 +1,6 @@
 <manifest>
   <remote fetch="https://github.com/vivek357" name="origin"/>
-    <default revision="refs/heads/main"
+    <default revision="master"
            remote="origin"
            sync-j="4" />
   
