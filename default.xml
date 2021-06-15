@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8">
+<manifest>
+  <remote fetch="https://github.com/vivek357" name="origin"/>
+  <default remote="origin" name="master">
+  
+  <project name="Hello_World" path="app"/>
+  <project name="Gpio_Driver_bbb" path="driver"/>
+</manifest>
