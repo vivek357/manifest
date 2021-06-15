@@ -5,5 +5,5 @@
            sync-j="4" />
   
   <project name="Hello_World" path="app"/>
-  <project name="Gpio_Driver_bbb" path="driver"/>
+  <project name="Project_Zero" path="driver"/>
 </manifest>
