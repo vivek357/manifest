@@ -1,9 +1,9 @@
 <manifest>
   <remote fetch="https://github.com/vivek357" name="origin"/>
-    <default revision="main"
+    <default revision="master"
            remote="origin"
            sync-j="4" />
   
   <project name="Hello_World" path="app"/>
-  <project name="Project_Zero" path="driver"/>
+  <project name="Gpio_Driver_bbb" path="driver"/>
 </manifest>
